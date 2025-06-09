@@ -445,5 +445,3 @@ ab -n 1000 -c 10 http://localhost:8080/supermarket/
 - 发送邮件至项目维护者
 
 ---
-
-```
